@@ -1,0 +1,27 @@
+.main_wrapper{
+    width: 100vw;
+    max-width: 500px;
+    margin: auto;
+    background-color: lavender;
+
+}
+
+input{
+    margin-right: 5px;
+}
+
+.firstLast,.userName, .contrasena, .re-contrasena, .genero, .telefono, .correo, .birth, .place{
+    display: flex;
+    margin-bottom: 15px;
+    margin-left: 5px;
+}
+
+
+label{
+    padding-left: 5px;
+}
+
+.place{
+    padding-bottom: 30px;
+}
+

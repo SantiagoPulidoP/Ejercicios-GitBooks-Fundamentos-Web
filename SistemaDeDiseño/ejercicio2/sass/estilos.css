@@ -1,0 +1,81 @@
+.input {
+  text-align: center;
+}
+
+.hint-text {
+  border: 0;
+  border-bottom: 2px solid gray;
+  margin-left: 10px;
+  margin-bottom: 20px;
+}
+
+.hint-text:hover {
+  border: 2px solid gray;
+}
+
+.press {
+  border: 0;
+  border-bottom: 2px solid gray;
+  margin-left: 10px;
+  margin-bottom: 20px;
+}
+
+.press:hover {
+  border: 2px solid blue;
+}
+
+.focus {
+  border: 0;
+  border-bottom: 2px solid gray;
+  margin-left: 10px;
+  margin-bottom: 20px;
+}
+
+.focus:hover {
+  border: 2px solid lightblue;
+}
+
+.normal {
+  border: 0;
+  border-bottom: 2px solid gray;
+  margin-left: 10px;
+  margin-bottom: 20px;
+}
+
+.normal:hover {
+  border: 2px solid black;
+}
+
+.error {
+  border: 0;
+  border-bottom: 2px solid gray;
+  margin-left: 10px;
+  margin-bottom: 20px;
+}
+
+.error:hover {
+  border: 2px solid red;
+}
+
+.valid {
+  border: 0;
+  border-bottom: 2px solid gray;
+  margin-left: 10px;
+  margin-bottom: 20px;
+}
+
+.valid:hover {
+  border: 2px solid green;
+}
+
+.disabled {
+  border: 0;
+  border-bottom: 2px dotted darkgray;
+  margin-left: 10px;
+  margin-bottom: 20px;
+}
+
+.disabled:hover {
+  background-color: lightgrey;
+}
+/*# sourceMappingURL=estilos.css.map */

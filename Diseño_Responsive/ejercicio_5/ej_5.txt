@@ -1,0 +1,6 @@
+¿Qué tal ahora? ¿Si nos vamos a las herramientas de desarrollo, abrimos el simulador y probamos con diferentes dispositivos/anchos?
+ ¿Cambia ahora de rojo a azul?
+
+Utilizando las herramientas de desarrollo de Chrome, el elemento .box permance azul cuando
+cuando su ancho es mayor a 550px, en el caso contrario este se vuelve rojo (Tal como se estableció
+con el mediaquery

@@ -1,0 +1,87 @@
+.main_wrapper{
+    background-color: #E7F2F5;
+    border-radius: 10px;
+    width: 100vw;
+    max-width: 350px;
+    margin: auto;
+}
+
+
+form{
+    max-width: inherit;;
+}
+
+#firstName{
+    width: 45%;
+}
+
+#surname{
+    width: 40%;
+}
+
+#email , #re-email{
+    width: 90%;
+}
+
+.fill, #birthday{
+    margin-bottom: 10px;
+    margin-left: 10px;
+    border: 1px solid #D3DADB;
+    border-radius: 5px;
+    height: 20px;
+    padding-left: 5px;
+}
+
+.text{
+    padding-left: 10px;
+    margin: 5px;
+}
+
+.date-text{
+    font-weight: normal;
+    text-align: justify;
+    margin: 30px 0 0 15px;
+    width: 30%;
+
+}
+.cumple{
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    margin-bottom: 20px;
+}
+
+.genre{
+    padding-left: 10px;
+    margin-bottom: 20px;
+}
+
+.terms{
+    font-weight: normal;
+    margin-bottom: 20px;
+}
+
+a{
+    text-decoration: none;
+}
+#submit{
+    margin: 25px 0 40px 10px;
+    background-color: #65A208;
+    border: 1px solid gray;
+    border-radius: 5px;
+    height: 28px;
+    font-size: 0.95rem;
+}
+
+textarea{
+    margin-left: 10px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+
+.terms-radio{
+    padding: 10px;
+    margin-bottom: 10px;
+    font-size: 0.9rem;
+}

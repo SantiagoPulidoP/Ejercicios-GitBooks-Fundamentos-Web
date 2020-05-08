@@ -1,0 +1,21 @@
+1.¿Cuáles son los breakpoints que nos ofrece Bootstrap? 
+  Los breakpoints de Bootstrap son los rangos de media query que este nos ofrece:
+  @media (min-width: 576px) { ... }
+
+
+  @media (min-width: 768px) { ... }
+
+
+  @media (min-width: 992px) { ... }
+
+
+  @media (min-width: 1200px) { ... }
+	
+2.¿Qué clase tendrá un elemento que ocupe 2 columnas en el breakpoint Small?
+   Tendrá la clase .col-sm-2
+
+3.¿Qué clase tendrá un elemento que ocupe 6 columnas en el breakpoint Large?
+   Tendrá la clase .col-lg-6
+
+4.¿Qué clase tendrá un elemento que ocupe 11 columnas en el breakpoint Extra Small?
+   Tendrá la clase -col-11 

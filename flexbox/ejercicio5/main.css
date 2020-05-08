@@ -1,0 +1,30 @@
+.container{
+    height: 90vh;
+    width: 50vw;
+    border: 5px solid red;
+    display: flex;
+    flex-direction: column;
+}
+
+header{
+    background-color: #e5e8e8;
+    border: 1px solid black;
+   
+    min-height:50px ;
+
+    
+}
+main{
+    background-color: #bdc3bd;
+   
+    border: 1px solid black;
+  
+    min-height: 272px;
+    flex-grow: 1;
+}
+footer{
+    background-color: #f1c40f;
+    border: 1px solid black;
+   
+    height: 25px;
+}

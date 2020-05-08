@@ -1,0 +1,33 @@
+.wrapper {
+  width: 100%;
+  max-width: 1024px;
+  margin: auto;
+  position: relative;
+}
+
+.wrap-footer,
+ul {
+  display: flex;
+  justify-content: space-between;
+}
+
+ul {
+  list-style: none;
+  width: 50%;
+  justify-content: space-between;
+}
+
+footer {
+  border-top: 1px groove gray;
+  margin-top: 60px;
+}
+
+.cookies {
+  border: 2px dotted gray;
+  background-color: honeydew;
+  border-radius: 6px;
+  display: inline-block;
+  position: fixed;
+  bottom: 0;
+  right: 0;
+}

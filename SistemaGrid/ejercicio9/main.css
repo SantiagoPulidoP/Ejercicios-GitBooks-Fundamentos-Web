@@ -1,0 +1,30 @@
+.header {
+    background-color: aquamarine;
+    height: 30vh;
+}
+
+
+.wrapper{
+    background-color: lightgray;
+    height: 10vw;
+}
+
+.box{
+    border: 1px solid black;
+    height: 90px;
+    background-color: white;
+    
+    
+}
+
+.container{
+    background-color: lavender;
+    height: 70vh;
+    margin: auto;
+}
+
+.row{
+    height: 90px;
+}
+
+

@@ -1,0 +1,12 @@
+EJERCICIO 3
+En el siguiente codepen (https://codepen.io/adalab/pen/MOjMPr?editors=1010) hay un módulo con una noticia sobre Bill Murray.
+ Nada nuevo, ¿no?
+1.¿Qué pasa si duplico el párrafo de texto?
+2.¿Y si duplico otra vez?
+
+
+1. Si se duplica el párrafo de texto, el contenedor padre ( .news_content ) se ajusta
+al tamaño del párrafo
+
+2.Cuando de vuelve a duplicar el párrafo, el contenedor padre llega a su maximo height definido, y
+por ende se presenta overflow, lo cual se arrelga con overflow-y:auto;

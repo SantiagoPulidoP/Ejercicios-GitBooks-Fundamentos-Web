@@ -1,0 +1,91 @@
+/* Estilo original */
+
+/* html {
+  font-size: 16px;
+}
+.smiley {
+  width: 100px;
+  height: 100px;
+  line-height: 100px;
+  text-align: center;
+  font-family: "courier new";
+  font-weight: bold;
+  font-size: 50px;
+  color: #424242;
+  background: #ffcc00;
+  position: fixed;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  border-radius: 50%;
+} */
+
+/* Resultado al cambiar px por rem */
+
+/* html {
+  font-size: 16px;
+}
+.smiley {
+  width: 100rem;
+  height: 100rem;
+  line-height: 100rem;
+  text-align: center;
+  font-family: "courier new";
+  font-weight: bold;
+  font-size: 50rem;
+  color: #424242;
+  background: #ffcc00;
+  position: fixed;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  border-radius: 50%;
+} */
+
+/* Para que el .smiley mida 50x50 
+se debe ajustar el rem a 50px, por lo cual
+la relacion sería 50px = 3.125rem */
+
+/* html {
+  font-size: 16px;
+}
+.smiley {
+  width: 3.125rem;
+  height: 3.125rem;
+  line-height: 3.125rem;
+  text-align: center;
+  font-family: "courier new";
+  font-weight: bold;
+  font-size: 3.125rem;
+  color: #424242;
+  background: #ffcc00;
+  position: fixed;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  border-radius: 50%;
+} */
+
+/* Para que el .smiley mida 200x200 
+se debe ajustar el rem a 200px, por lo cual
+la relacion sería 50px = 12.5rem */
+
+html {
+  font-size: 16px;
+}
+.smiley {
+  width: 12.5rem;
+  height: 12.5rem;
+  line-height: 12.5rem;
+  text-align: center;
+  font-family: "courier new";
+  font-weight: bold;
+  font-size: 12.5rem;
+  color: #424242;
+  background: #ffcc00;
+  position: fixed;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  border-radius: 50%;
+}

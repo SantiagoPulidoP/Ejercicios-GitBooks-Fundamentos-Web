@@ -1,0 +1,52 @@
+.wrapper{
+    width: 100vw;
+    height: 100vh;
+    background-color: khaki;
+    
+}
+
+h1{
+    left:50%;
+    top: 50%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    animation-name: centrar;
+    animation-duration: .8s;
+    animation-iteration-count: 1;
+}
+
+
+
+@keyframes centrar {
+    0%{
+        top:-50%;
+        left:50%;
+        opacity: 0;
+    }
+    10%{
+        top:0%;
+        left:50%;
+        opacity: 0.1;
+    }
+    20%{
+        top:20%;
+        left:50%;
+        opacity: 0.2;
+    }
+    40%{
+        top:30%;
+        left:50%;
+        opacity: 0.3;
+    }
+    50%{
+        top:40%;
+        left:50%;
+        opacity: 0.5;
+    }
+    100%{
+        top:50%;
+        left:50%;
+        opacity: 1;
+    }
+
+}

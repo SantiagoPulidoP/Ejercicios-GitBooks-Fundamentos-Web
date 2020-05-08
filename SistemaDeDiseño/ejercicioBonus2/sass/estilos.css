@@ -1,0 +1,114 @@
+.btn-cuad-azul {
+  border: 0;
+  background-color: blue;
+}
+
+.btn-cuad-rojo {
+  border: 0;
+  background-color: red;
+}
+
+.btn-cuad-verde {
+  border: 0;
+  background-color: green;
+}
+
+.btn-cuad-dis {
+  border: 0;
+  background-color: lightgray;
+}
+
+.btn-circ-azul {
+  border: 0;
+  background-color: blue;
+  border-radius: 20px;
+}
+
+.btn-circ-rojo {
+  border: 0;
+  background-color: red;
+  border-radius: 20px;
+}
+
+.btn-circ-verde {
+  border: 0;
+  background-color: green;
+  border-radius: 20px;
+}
+
+.btn-circ-dis {
+  border: 0;
+  background-color: lightgray;
+  border-radius: 20px;
+}
+
+.hint-text {
+  border-bottom: 2px solid gray;
+  margin-left: 10px;
+  margin-bottom: 20px;
+}
+
+.hint-text:hover {
+  border: 2px solid gray;
+}
+
+.press {
+  border-bottom: 2px solid gray;
+  margin-left: 10px;
+  margin-bottom: 20px;
+}
+
+.press:hover {
+  border: 2px solid blue;
+}
+
+.focus {
+  border-bottom: 2px solid gray;
+  margin-left: 10px;
+  margin-bottom: 20px;
+}
+
+.focus:hover {
+  border: 2px solid lightblue;
+}
+
+.normal {
+  border-bottom: 2px solid gray;
+  margin-left: 10px;
+  margin-bottom: 20px;
+}
+
+.normal:hover {
+  border: 2px solid black;
+}
+
+.error {
+  border-bottom: 2px solid gray;
+  margin-left: 10px;
+  margin-bottom: 20px;
+}
+
+.error:hover {
+  border: 2px solid red;
+}
+
+.valid {
+  border-bottom: 2px solid gray;
+  margin-left: 10px;
+  margin-bottom: 20px;
+}
+
+.valid:hover {
+  border: 2px solid green;
+}
+
+.disabled {
+  border-bottom: 2px dotted darkgray;
+  margin-left: 10px;
+  margin-bottom: 20px;
+}
+
+.disabled:hover {
+  background-color: lightgrey;
+}
+/*# sourceMappingURL=estilos.css.map */

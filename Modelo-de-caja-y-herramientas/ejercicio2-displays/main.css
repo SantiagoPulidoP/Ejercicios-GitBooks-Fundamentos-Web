@@ -1,0 +1,13 @@
+div{
+    height: 100px;
+    width: 100px;
+}
+.block{
+    display: block;
+}
+.inline{
+    display: inline;
+}
+.inline-block{
+    display: inline-block;
+}

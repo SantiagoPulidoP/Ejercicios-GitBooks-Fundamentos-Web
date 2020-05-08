@@ -1,0 +1,25 @@
+/* .news{
+    border:1px solid red;
+} */
+
+.contenedor {
+    margin: 0 auto;
+    width: 1000px;
+    display: flex;
+    border: 1px solid red;
+    flex-wrap: wrap;
+    align-content: flex-start;
+
+}
+
+.elemento {
+    border:1px solid blue;
+    height: 200px;
+    width: 498px;
+    
+}
+.new_1{
+    width: inherit;
+}
+
+

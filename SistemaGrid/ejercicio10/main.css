@@ -1,0 +1,14 @@
+.header{
+    background-color: teal;
+    min-height: 30vh;
+}
+
+.content-wrapper{
+    height: 70vh;
+}
+
+
+.cat{
+    height: 300px;
+    width: inherit;
+}

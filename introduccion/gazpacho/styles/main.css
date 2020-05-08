@@ -1,0 +1,23 @@
+body{
+    background-color: #f3f4f5;
+
+}
+
+h1,h2{
+    font-family: Arial, Helvetica, sans-serif;
+    color:black;
+    font-size: 24px;
+}
+p,li{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+    color: #757575;
+}
+
+.link{
+    color: red;
+}
+.link:hover{
+    background-color: red;
+    color: white;
+}

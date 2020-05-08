@@ -1,0 +1,8 @@
+¿Cómo es la ruta de ambas imágenes? ¿Absoluta? ¿Relativa? ¿Es diferente en los dos casos? ¿Por qué?
+
+
+*Cuando la imagen se coloca como background del div, esta es una ruta relativa, ya que 
+se esta dentro de la carpeta styles
+
+*Para colocar la imagen de prueba en etiqueta <img> esta se colca mediante una ruta
+absoluta, ya que se parte de la raiz principal (proyecto)

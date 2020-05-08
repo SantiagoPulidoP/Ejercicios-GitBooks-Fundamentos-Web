@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+}
+/* .box {
+  background: red;
+  
+    35% de ancho y 35% de alto
+   
+  width: 35vw;
+  height: 35vh;
+} */
+
+/* hacer que el contenedor .box ocupe el 50% de ancho y el 100% de alto */
+/* .box {
+  background: red;
+  width: 50vw;
+  height: 100vh;
+} */
+
+/* hacer que el contenedor .box ocupe el 10% de ancho y el 10% de alto */
+.box {
+  background: red;
+  width: 10vw;
+  height: 10vh;
+}
+
+/* hacer que el contenedor .box ocupe el 100% de ancho y el 80% de alto */
+.box {
+  background-color: red;
+  width: 100vw;
+  height: 80vh;
+}

@@ -1,0 +1,6 @@
+Abramos ahora las herramientas de desarrollo de Chrome y lancemos el simulador de dispositivos móviles. Probemos varios dispositivos o resoluciones. 
+¿Qué pasa? ¿Cuándo se vuelve azul? ¿Cuándo se vuelve rojo?
+
+
+Utilizando las herramientas de desarrollo de Chrome, el elemento .box permance azul,
+a pesar del media query, al probar con diferentes anchos este permanece azul. 

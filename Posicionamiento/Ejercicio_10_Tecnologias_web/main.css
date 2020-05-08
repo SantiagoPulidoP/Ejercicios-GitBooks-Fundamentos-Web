@@ -1,0 +1,28 @@
+body {
+  font-family: sans-serif;
+}
+a:hover {
+  background-color: aqua;
+  transition: background-color, 1s;
+}
+
+.tooltip {
+  position: relative;
+}
+
+.tooltip .tooltip-text {
+  visibility: hidden;
+  width: 400px;
+  height: 200px;
+  color: gray;
+  background-color: white;
+  position: absolute;
+  z-index: 1;
+  text-align: center;
+  border: 2px dotted black;
+  border-radius: 6px;
+}
+
+.tooltip:hover .tooltip-text {
+  visibility: visible;
+}
